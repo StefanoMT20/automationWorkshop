@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/readme-img.png" width="700" height="100" />
+  <img src="/img/readme-img.png" width="700" height="80" />
 </p>
 
 # automationWorkshop
