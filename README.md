@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/rtranzact.jpg" />
+  <img src="/img/rtranzact.png" />
 </p>
 
 
