@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/rtranzact.png" />
+  <img src="/img/readme-img.png" />
 </p>
 
 
