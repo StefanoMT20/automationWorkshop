@@ -42,3 +42,11 @@ To get a local copy up and running follow these simple example steps.
     
 	-   After download, extract the zip file and you have the project on your machine.
 
+## Try it out
+Run on Git Bash
+	Is necessary that you run the script in the test_cases folder
+	- ```cd test_cases ```
+	Run the tests for a @test_case:
+	- ```robot -d ..\Reports  .\testCaseName.robot```
+	Run the tests by tag
+	- ```robot -d ..\Reports -i tagName .\login.robot```
