@@ -44,10 +44,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Try it out :bow_and_arrow:
 Run on Git Bash:
- - Is necessary that you run the script in the test_cases folder
-	 ```cd test_cases ```
-- Run the tests for a @test_case:
-```robot -d ..\Reports .\testCaseName.robot```
-
-- Run the tests by tag
-```robot -d ..\Reports -i tagName .\login.robot```
+ 1.  Once you have the project, enter to the test_cases folder to run the script
+	 - ```cd test_cases ```
+2. Run the tests for a @test_case:
+	- ```robot -d ..\Reports .\testCaseName.robot```
+- Run the tests by tag(optional)
+	- ```robot -d ..\Reports -i tagName .\testCaseName.robot```
